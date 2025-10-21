@@ -1,0 +1,7 @@
+
+:root { color-scheme: light dark; }
+html, body, #root { height: 100%; }
+body { margin: 0; background: linear-gradient(180deg, #0b1230 0%, #0f1b4c 100%); }
+.container { max-width: 1200px; margin: 0 auto; padding: 16px; }
+.card-blur { backdrop-filter: blur(10px); background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.1); border-radius: 16px; }
+.white { color: #fff; }
